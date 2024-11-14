@@ -1,5 +1,9 @@
 # Oi, eu sou a Valk :) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senabytes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
+<div>
+  <a href="https://github.com/senabytes''>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura"
+</div>
+
 
 - 💻 **Aspirante a Dev Front-End**
 - 🌱 **Estudando HTML, CSS, JavaScript e React** 
