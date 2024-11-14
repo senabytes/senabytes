@@ -8,3 +8,4 @@
 - [LinkedIn](https://www.linkedin.com/in/valkiriadesenas/)
 - [E-mail](valkiriasenas@gmail.com)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senabytes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
