@@ -1,6 +1,5 @@
 # Oi, eu sou a Valk :) 
 <div>
-  <a href="https://github.com/senabytes''>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura"
 </div>
 
