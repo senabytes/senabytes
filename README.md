@@ -1,8 +1,5 @@
 ## Oi, eu sou a Valk :) 
-<!--template-->
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senabytes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
-</div>
+
 
 <!--linguagens-->
   <div style="display: inline_block"><br>
