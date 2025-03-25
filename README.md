@@ -1,4 +1,4 @@
-# Oi, eu sou a Valk :) 
+# Oi, eu sou a Valkiria :) 
 
 ## 💫 Sobre mim:
 - 💻 **Aspirante a Dev Front-End**
